@@ -1,0 +1,13 @@
+git config --global user.name 이름
+git config --global user.email 이메일
+git add 파일이름
+git commit -m 메세지
+git remote add origin 저장소주소
+git push origin master
+
+
+git pull origin master
+
+집가고싶다.
+
+집에 가면 밥먹어야지.
